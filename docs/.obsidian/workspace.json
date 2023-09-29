@@ -1,0 +1,186 @@
+{
+  "main": {
+    "id": "9f4c51c53f247213",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8a2465b097d4d47",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa888b206c942a94",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "523dd64c60714a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "453cc620a723ccd5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2052f1239e8fb90",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4e1ba99a53bc068e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "ansible",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "907f98e1c43b8872",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0b30c039a1732f2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "a685277530f448a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "213375f173786760",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f52b383d4b184db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cee35d3d6aa0d818",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9e14d703ff570fa5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d2052f1239e8fb90",
+  "lastOpenFiles": [
+    "quickrefs/screenshot1.png",
+    "quickrefs/23-07-12-110543.png",
+    "quickrefs/23-06-24-151150.png",
+    "quickrefs/23-06-24-152851.png",
+    "23-07-12-110543.png",
+    "screenshot1.png",
+    "quickrefs/Screenshot Testing.md",
+    "infraauto/k8s/10-k8s-setup/13-minikube-windows.md",
+    "Untitled.canvas",
+    "infraauto/ansible/index.md",
+    "cloudsec/iamc/index.md",
+    "cs/as/index.md",
+    "cloudsec/azure/index.md",
+    "cloudsec/azure",
+    "cloudsec/aws copy/index.md",
+    "cloudsec/aws copy",
+    "cloudsec/aws/index.md",
+    "cloudsec/aws",
+    "cloudsec/cis copy/index.md",
+    "cloudsec/cis copy",
+    "infraauto/pulumi/index.md",
+    "infraauto/pulumi",
+    "infraauto/terraform copy/index.md",
+    "infraauto/terraform copy",
+    "infraauto/terraform/index.md",
+    "infraauto/terraform",
+    "infraauto/ansible",
+    "quickrefs/postgresql.md",
+    "devsecops/sca/retirejs/40-retirejs-github.md",
+    "devsecops/sca/retirejs/30-retirejs-gitlab.md",
+    "devsecops/sca/retirejs/20-retirejs-usage.md",
+    "devsecops/sca/retirejs/10-retirejs-intro.md",
+    "devsecops/sca/npm-audit/40-npm-audit-github.md",
+    "devsecops/sca/npm-audit/30-npm-audit-gitlab.md",
+    "devsecops/sca/npm-audit/20-npm-audit-usage.md",
+    "devsecops/sca/npm-audit/10-npm-audit-intro.md",
+    "devsecops/sca/npm-audit/01-npm-audit-intro.md",
+    "devsecops/sca/npm-audit/index.md",
+    "NPM Audit Introduction.md",
+    "devsecops/sca/npm-audit/100-npm-audit-conclusion.md",
+    "devsecops/sca/retirejs/New folder",
+    "devsecops/sca/retirejs/New Text Document.txt"
+  ]
+}
