@@ -1,3 +1,0 @@
----
-title: Flux with Kubernetes
----
